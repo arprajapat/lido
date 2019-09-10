@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Min Heap 1`] = `
+Array [
+  Object {
+    "frequency": 2,
+    "key": 4,
+  },
+  Object {
+    "frequency": 3,
+    "key": 1,
+  },
+  Object {
+    "frequency": 7,
+    "key": 3,
+  },
+  Object {
+    "frequency": 9,
+    "key": 5,
+  },
+]
+`;

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Top Viewed Products 1`] = `
+Array [
+  Object {
+    "frequency": 6,
+    "key": 6,
+  },
+  Object {
+    "frequency": 5,
+    "key": 4,
+  },
+  Object {
+    "frequency": 5,
+    "key": 5,
+  },
+]
+`;
